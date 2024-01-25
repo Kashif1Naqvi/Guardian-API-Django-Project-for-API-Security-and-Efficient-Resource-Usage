@@ -7,7 +7,7 @@ This Django project demonstrates strategies for securing and optimizing your API
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/Kashif1Naqvi/django-api-security.git
+   [git clone https://github.com/Kashif1Naqvi/django-api-security.git](https://github.com/Kashif1Naqvi/Guardian-API-Django-Project-for-API-Security-and-Efficient-Resource-Usage.git)
   ```
 
 create envoirement variable on Linux/MAC
